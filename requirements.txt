@@ -1,0 +1,6 @@
+pandas
+numpy
+graphviz
+networkx
+argparse
+

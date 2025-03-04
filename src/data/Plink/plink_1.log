@@ -1,0 +1,26 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile /storage-01/poultrylab1/csg/data/mix/4s3y_711/IndepSNP1
+  --chr-set 40
+  --genome
+  --out ./data/Plink/plink_1
+
+Hostname: m1
+Working directory: /storage-01/poultrylab1/csg/duckPI/src
+Start time: Tue Dec 10 14:38:11 2024
+
+Random number seed: 1733812691
+1031275 MB RAM detected; reserving 515637 MB for main workspace.
+153117 variants loaded from .bim file.
+711 samples (0 males, 0 females, 711 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ./data/Plink/plink_1.nosex .
+Using up to 207 threads (change this with --threads).
+Before main variant filters, 711 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.993803.
+153117 variants and 711 samples pass filters and QC.
+Note: No phenotypes present.
+IBD calculations complete.
+Finished writing ./data/Plink/plink_1.genome .
+
+End time: Tue Dec 10 14:38:14 2024
