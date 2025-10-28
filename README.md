@@ -2,6 +2,9 @@
 Pedigree Reconstruction
 ## 软件说明手册
 
+在linux服务器中下载代码，然后直接运行install.sh文件进行需求包安装，即可直接运行该软件。
+当对上游样本基因数据进行了变异检测、质量控制获得了SNP文件之后，可基于SNP文件直接进行亲缘推断并构建系谱。
+
 `./duckPI.py -h`
 
 <img width="656" height="452" alt="image" src="https://github.com/user-attachments/assets/a765408a-fa28-42c9-9b9a-c867517dfa6b" />
